@@ -6,15 +6,16 @@
     background-color: #372b39;
     color: #dbdbdb;
     user-select: none;
-    box-sizing: border-box;
 }
 
 body{
     padding: 20px;
+    box-sizing: border-box;
+    height: 100vh;
 }
 
 .container {
-    height: 100vh;
+    height: 100%;
     position: relative;
 }
 
